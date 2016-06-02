@@ -7,4 +7,4 @@ Difficulty progression allows children to learn about basic relationships and in
 
 Soundtrack is composed of public domain works of Django Reinhardt, the varied pace and themes should make for an engrossing listening experience on its own.
 
-Toks will be release on June 2nd @ midnight UTC
+[Download on the AppStore](https://geo.itunes.apple.com/us/app/toks/id1107369479?mt=8)
